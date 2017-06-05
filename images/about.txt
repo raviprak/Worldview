@@ -1,0 +1,11 @@
+<html>
+<h1>Purpose of WorldView</h1>
+
+<p>WorldView has been designed to be a solid modeling software, in which stress has been laid on speed and convenience of modeling, at times at the cost of approximation, rather than the capability to store fine details. It can also store color information of the solid. WorldView can be used to model any solid and to obtain that solid's view in full color from any desired angle in 3-Dimension space. Currently it also supports a few operations on the solid like replacing some specific kind of cell with another. </p>
+
+<p>When a human is asked to recall a scene he/she does not remember the fine details, only approximate positions of the objects, and an abstract view of the objects themselves. When a human sees a tree, he/she does not remember the number of leaves on that tree, their orientation or texture or their exact measurements. Humans only store a faint idea of what the tree looked like, and its approximate size. Such dramatic simplification allows a corresponding dramatic decrease in the amount of processing required to "understand" the scene. Despite the enormous processing capabilities that computers have, humans simply outclass computers when it comes to image processing. As a result, humans are still needed in possibly perilous exploration programmes. Space exploration employs robots only when it becomes impossible or prohibitively expensive/ impractical to send humans. WorldView can thus be thought of as a first step towards an attempt to adopt nature's brilliant strategy for image processing. </p>
+
+<h4><u>Credits:</u></h4>
+Ravi Prakash<br>
+India
+</html>
